@@ -1,4 +1,4 @@
-This is a gun peripheral for fps games with a recoil mechanism inspired by the wii remote.
+This is a gun peripheral for fps games with a recoil mechanism and tactile reload and a joystick for movement inspired by the wii remote.
 
 I made this project because it has been going in my head for a while i just wondered why has no one made it yet.I did want to make it before but i didnt have the funding now with stasis, im making it real.The recoil mechanism was inspired by my little brother's toy gun.
 
@@ -27,6 +27,7 @@ I made this project because it has been going in my head for a while i just wond
 | User input (trigger & reload)             | Push Button Switches                | 5   | 1.05             | Robu.in    | https://robu.in/product/red-r13-507-16mm-no-lock-push-button-momentary-switch-3a-250v/ |
 | IR emission                               | IR LED Emitter Module               | 1   | 3.43             | Amazon     | https://www.amazon.in/Invento-Emitter-Transmitter-Infrared-Projects/dp/B07GD1JDR6/ |
 | Cursor positioning                        | IR Positioning Camera (DFRobot)     | 1   | 23.90            | Robu.in    | https://robu.in/product/dfrobot-gravity-ir-positioning-camera-for-arduino/ |
+| For movement in games.                    | Joystick module                     | 1   | 0.39             | Robu.in    |https://robu.in/product/joystick-module-ps2-breakout-sensor/ |
 
 
 
